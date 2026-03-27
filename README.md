@@ -93,11 +93,10 @@ and so on...
 - `dracula` - Purple/pink (default)
 - `nord` - Arctic blue/white
 - `gruvbox` - Retro brown/green
-- `catppuccin` - Catppuccin Macchiato
-- `catppuccin-mocha` - Dark mocha variant
-- `catppuccin-macchiato` - Medium macchiato variant
-- `catppuccin-frappe` - Frappe variant
-- `catppuccin-latte` - Light latte variant
+- `mocha` - Dark mocha catppuccin variant
+- `macchiato` - Medium macchiato catppuccin variant
+- `frappe` - Frappe catppuccin variant
+- `latte` - Light latte catppuccin variant
 - `tokyo` - Tokyo Night
 - `monokai` - Classic Monokai
 - `solarized` - Solarized light/dark
