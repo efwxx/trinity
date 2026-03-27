@@ -1,4 +1,4 @@
-# Malice's Shell Profile
+# Trinity
 
 A feature-rich, POSIX-compliant shell profile that works on (almost) all shells. Designed for Linux systems from desktops to embedded SBCs (tested on Ubuntu 25.04, Onion Omega2+ with BusyBox and MacOS Ventura).
 
