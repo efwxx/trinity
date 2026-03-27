@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.#*
+
+# Compiled files
+*.o
+*.so
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Local config (if you want to override things)
+# Uncomment below if you want to ignore your personal overrides
+# .profile.local
