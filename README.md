@@ -49,7 +49,7 @@ A feature-rich, POSIX-compliant shell profile that works on (almost) all shells.
 
 ```bash
 # Clone the repo
-git clone https://github.com/efwxx/dotfiles.git ~/.dotfiles
+git clone https://github.com/efwxx/trinity.git ~/.dotfiles
 
 # Link the profile
 ln -sf ~/.dotfiles/profile ~/.profile
